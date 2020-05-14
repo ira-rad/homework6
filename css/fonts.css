@@ -1,0 +1,9 @@
+@font-face {
+    font-family: "Helvetica";
+    src: url("../fonts/helvetica/Helvetica.ttf") format("truetype");
+  }
+
+@font-face {
+    font-family: "Avenir";
+    src: url("../fonts/avenir/AvenirLTStd-Roman.otf") format("opentype");
+}

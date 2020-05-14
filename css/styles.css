@@ -1,4 +1,3 @@
-
 html,
 body {
   min-height: 100vh;
@@ -9,11 +8,8 @@ body {
 body{
     display: flex;
     flex-direction: column;
-    
     min-height: 100vh;
-    min-width: 100vw;
     height: 4500px;
-
 }
 header{
     margin-top: 50px;
@@ -402,7 +398,7 @@ color: #212353;
     
      margin: 0 auto; 
      margin-top: 183px;
-     max-width: 1118px;
+     min-width: 1118px;
      height: 709px;
      background: #9C69E2;
      border-radius: 50px;
@@ -501,5 +497,4 @@ color: #212353;
     width: 20px;
     height: 14px;
 }
-
 
