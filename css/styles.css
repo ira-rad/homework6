@@ -102,7 +102,7 @@ a:hover{
    
     
 }
-.main_tittle{
+.header_tittle{
 margin-top: 147px;
 font-family: Helvetica;
 font-style: normal;
@@ -115,7 +115,7 @@ color: #212353;
 max-width: 645px;
 
 }
- .main_text{
+ .header_text{
     margin-top: 50px;
     font-family:Avenir;
     font-style: normal;
@@ -128,7 +128,7 @@ max-width: 645px;
     
 
  }
-.main_button{
+.headers_button{
     margin-top: 66px;
     width: 170px;
     height: 60px;
